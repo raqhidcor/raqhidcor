@@ -1,4 +1,5 @@
 <h2> Hi, I'm Raquel Hidalgo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://giphy.com/gifs/blue-water-drink-DfDehwQxv87vFig4zE" width="230"> 
  
 <p><em> MERN // Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
