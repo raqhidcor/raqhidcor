@@ -3,8 +3,6 @@
 <p><em> MERN // Junior Full Stack Developer <<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
-[![GitHub raqhidcor](https://img.shields.io/github/views/raqhidcor?label=views&style=social)](https://github.com/raqhidcor)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
