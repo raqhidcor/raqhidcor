@@ -24,9 +24,9 @@
 ```javascript
 const raquel = {
   pronouns: "she" | "her",
-  code: [Javascript,HTML, CSS],
-  tools: [React, Node.js,ExpressJs, MongoDB],
-  challenge: "Creating my first project for the tech school IronHack"
+  hobbies: [hiking, spent time with my dog Thomas,I ❤️ baking],
+  motto: "“Once, I saw a bee drown in honey, and I understood.”
+  challenge: [Creating my first project for the tech school IronHack],
 }
 ```
 
