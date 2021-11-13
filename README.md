@@ -4,7 +4,7 @@
 <p><em> MERN // Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
  
-<p align="left"> <img src="https://media1.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e477hlasqxtksersua33orq85zk51uuvv5t3ugho28z&rid=giphy.gif&ct=g" alt="raqhidcor" /> 
+<p align="left"> <img src="" alt="raqhidcor" /> 
 <img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' /> </p>
 
 <div style="display: flex; align-items:center"><br>
