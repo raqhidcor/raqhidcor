@@ -1,5 +1,5 @@
 <h2> Hi, I'm Raquel Hidalgo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media1.giphy.com/media/cU9aTRdZzZXauh1aMA/giphy.gif?cid=790b76114b40f489a18b0581f602c0eb89cf7b03f9a295c5&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="230">
  
 <p><em> MERN // Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
