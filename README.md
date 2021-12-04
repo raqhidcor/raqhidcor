@@ -25,7 +25,7 @@ const raquel = {
   pronouns: "she" | "her",
   hobbies: [hiking, spent time with my dog Thomas,I ❤️ baking],
   motto: “Once,I saw a bee drown in honey, and I understood.”,
-  challenge: [Learning React 🚀],
+  challenge: [Developing the Final Project of the Web Dev Bootcamp at the tech school IronHack 🚀],
 }
 ```
 
