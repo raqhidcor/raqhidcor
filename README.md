@@ -21,6 +21,7 @@
   <div style="display: flex; align-items:center"><br>
   <div align="center">
    <img align="center" alt="canvasjs" height="30" width="40" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"> 
+   <img align="center" alt="mui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
  </div>
 
 
