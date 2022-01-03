@@ -17,6 +17,8 @@
   <img align="center" alt="raqhidcor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
   </div>
+ 
+  <div style="display: flex; align-items:center"><br>
   <div align="center">
      <img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
  </div>
