@@ -20,7 +20,7 @@
  
   <div style="display: flex; align-items:center"><br>
   <div align="center">
-     <img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+   <img align="center" alt="canvasjs" height="30" width="40" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"> 
  </div>
 
 
