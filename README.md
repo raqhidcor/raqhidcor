@@ -1,8 +1,8 @@
 <h2> Hi, I'm Raquel Hidalgo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/417GaunKfrshCFGenc" width="230">
+<img align='right' src="https://media4.giphy.com/media/417GaunKfrshCFGenc/giphy.gif?cid=790b76117ea8359c1b5abd8ce4da9af036c88524a23b0322&rid=giphy.gif&ct" width="230">
 
  
-<p><em> MERN // Junior Full Stack Developer <img src="https://media4.giphy.com/media/417GaunKfrshCFGenc/giphy.gif?cid=790b76117ea8359c1b5abd8ce4da9af036c88524a23b0322&rid=giphy.gif&ct=g" width="60">
+<p><em> MERN // Junior Full Stack Developer 
 </p>
  
 <img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' /> </p>
