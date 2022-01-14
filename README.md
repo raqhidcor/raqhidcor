@@ -2,7 +2,7 @@
 <img align='right' src="https://giphy.com/gifs/417GaunKfrshCFGenc" width="230">
 
  
-<p><em> MERN // Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> MERN // Junior Full Stack Developer <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/417GaunKfrshCFGenc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/417GaunKfrshCFGenc">via GIPHY</a></p>
 </p>
  
 <img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' /> </p>
