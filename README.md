@@ -1,5 +1,6 @@
 <h2> Hi, I'm Raquel Hidalgo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/cU9aTRdZzZXauh1aMA/giphy.gif?cid=790b7611a5470a40b8d1235eed5c5c2470c42a750545950c&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://giphy.com/gifs/417GaunKfrshCFGenc" width="230">
+
  
 <p><em> MERN // Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
