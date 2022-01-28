@@ -25,10 +25,10 @@
    <img align="center" alt="canvasjs" height="30" width="40" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"> 
    <img align="center" alt="mui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-   <img align="center" alt="postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-   <img align="center" alt="axios" height="30" width="40" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png">
-   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-   <img align="center" alt='Ironhack' width="30" height="40" src="https://i.imgur.com/qq7wMW4.png">
+   <img align="center" alt="postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+   <img align="center" alt="axios" height="40" width="40" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png">
+   <img align="center" alt="express" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+   <img align="center" alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png">
  </div>
    </div>
 
