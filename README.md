@@ -5,7 +5,9 @@
 <p><em> MERN // Junior Full Stack Developer 
 </p>
  
-<img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' /> </p>
+<img alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png">
+<img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' />
+</p>
 
 <div style="display: flex; align-items:center"><br>
   <div align="center">
@@ -15,12 +17,13 @@
   <img align="center" alt="raqhidcor-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="raqhidcor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="raqhidcor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="raqhidcor-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="raqhidcor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
   </div>
  
   <div style="display: flex; align-items:center"><br>
   <div align="center">
+   <img align="center" alt="heroku" height="30" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
    <img align="center" alt="Handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" >
    <img align="center" alt="canvasjs" height="30" width="40" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"> 
    <img align="center" alt="mui" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg">
@@ -28,7 +31,6 @@
    <img align="center" alt="postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
    <img align="center" alt="axios" height="40" width="40" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png">
    <img align="center" alt="express" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-   <img align="center" alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png">
  </div>
    </div>
 
