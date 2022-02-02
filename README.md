@@ -5,7 +5,7 @@
 <p><em> MERN // Junior Full Stack Developer 
 </p>
  
- <a href="https://www.credential.net/b74ed3c6-7824-45eb-8802-0cc3a8a964dc#gs.oe4twf" target="_blank"> <img alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png" target="_blank">
+ <a href="https://www.credential.net/b74ed3c6-7824-45eb-8802-0cc3a8a964dc#gs.oe4twf" target="_blank"> <img alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png">
 <img alt='CodeWars' src='https://www.codewars.com/users/raqhidcor/badges/micro' />
 </p>
 
