@@ -2,7 +2,7 @@
 <img align='right' src="https://media0.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47bd85u7nuusd2l4qk50x7vqq7lvsxn3955jr0jaso&rid=giphy.gif&ct=g" width="230">
 
  
-<p><em> MERN // Junior Full Stack Developer 
+<p><em> Junior Full Stack Developer 
 </p>
  
 <img alt='Ironhack' width="40" height="40" src="https://i.imgur.com/qq7wMW4.png">
