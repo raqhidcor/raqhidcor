@@ -42,7 +42,7 @@
 const raquel = {
   pronouns: "she" | "her",
   hobbies: [hiking, spent time with my dog Thomas,I ❤️ baking],
-  motto: “Once,I saw a bee drown in honey, and I understood.”,
+  motto: “One day the word soon will be replaced by finally”,
   task: [Making my path in the tech industry],
 }
 ```
